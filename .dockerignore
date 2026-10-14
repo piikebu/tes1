@@ -1,0 +1,5 @@
+.git
+.claude
+*.md
+docker-compose.yml
+Dockerfile
